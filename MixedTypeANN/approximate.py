@@ -1,6 +1,7 @@
 """Approximate nearest neighbor search"""
 # Author: Maheshakya Wijewardena <maheshakya.10@cse.mrt.ac.lk>
 #         Joel Nothman <joel.nothman@gmail.com>
+#         Robin Chien <goodnana1224@gmail.com>
 
 import numpy as np
 import warnings
